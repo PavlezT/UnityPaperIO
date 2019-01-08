@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AIBehavior/Scenes/MultiPlayerExamples/MultiPlayerLineOfSight.unity
+  isLoaded: 1
+  isActive: 1
